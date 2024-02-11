@@ -20,9 +20,21 @@
   </a>
 </div>
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <div align="center">
-![Codewars](https://github.r2v.ch/codewars?user=Ceeesh)
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,laravel,linux,postman,vite,aws" />
+    <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,typescript,express,firebase,mongodb,nextjs,mysql,docker,webflow,wordpress,ruby,rails,swift" /><br>
 </div>
+
+<br/>
+<hr/>
+
+
+![Codewars](https://github.r2v.ch/codewars?user=Ceeesh)
+
 <!---
 ceeesh/ceeesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
