@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ceeesh
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ceeesh.ceeesh" />
 
 
 ![Codewars](https://github.r2v.ch/codewars?user=Ceeesh)
