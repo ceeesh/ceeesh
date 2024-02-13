@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,typescript,express,firebase,mongodb,nextjs,mysql,docker,webflow,wordpress,ruby,rails,swift" /><br>
 </div>
 
-<br/>
+<br/>  
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
