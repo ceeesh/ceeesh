@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ceeesh.ceeesh" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+CeeJay+Malacas!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi👋;+I'm+Cee!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from the Philippines 🇵🇭</h3>
+<!--- <h3 align="center">A passionate software developer from the Philippines 🇵🇭</h3>--->
 
 <br/>
 
@@ -15,7 +15,7 @@
   <a href="https://linkedin.com/in/cee-jay-malacas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://malacas.vercel.app/" target="_blank">
+  <a href="https://cli-ceesh.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
