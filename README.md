@@ -22,12 +22,12 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,laravel,aws,docker,wordpress,typescript" />
-    <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,express,firebase,mongodb,nextjs,mysql,ruby,rails" /><br>
-</div>
+<!-- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️/</h2> -->
+<!-- <br/> -->
+<!-- <div align="center"> -->
+<!--     <img src="https://skillicons.dev/icons?i=react,laravel,aws,docker,wordpress,typescript" /> -->
+<!--     <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,express,firebase,mongodb,nextjs,mysql,ruby,rails" /><br> -->
+<!-- </div> -->
 <!-- swift webflow postman linux tailwind figma vscode css html mui vite git github bootstrap-->
 
 <br/>  
